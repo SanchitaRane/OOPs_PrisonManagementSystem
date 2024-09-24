@@ -1,7 +1,3 @@
-To highlight that your **Prison Management System** project is **OOP (Object-Oriented Programming)** based, you can include a dedicated section in the `README.md` file that explains how the design leverages OOP principles. Below is a revised version of the README with added emphasis on OOP.
-
----
-
 # Prison Management System
 
 This project is a **Prison Management System** built using **Object-Oriented Programming (OOP)** principles, Python, SQLAlchemy, and SQLite. The system models various aspects of a prison, such as inmates, cells, behavior records, medical records, and parole status, utilizing OOP concepts like **classes**, **inheritance**, and **relationships** between objects. It also supports populating the database with random data, exporting inmate data to CSV, and provides functionality for guards and wardens to interact with the system.
